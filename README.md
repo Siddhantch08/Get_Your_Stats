@@ -11,13 +11,15 @@ Player Detection Model
  
 YOLOv8(object detection model) and ByteTrack(multi-object tracker).  
 
+
 Video frame
 ↓
-YOLOv8 → bounding boxes
+YOLOv8 (bounding boxes)
 ↓
-ByteTrack → consistent player IDs
+ByteTrack (consistent player IDs)
 ↓
 Player trajectories. 
+
 
 Phase 1 output :
 - [ ] Avg. speed
