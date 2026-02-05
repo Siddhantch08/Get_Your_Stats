@@ -1,4 +1,4 @@
-# Get_Your_Stats
+# GETYOUR_Football_Analytics
 Football video analyser which takes our video with a specific quality metrics.
 
 Lets start with Simple MVP:
